@@ -1,5 +1,7 @@
 <h1 align="center">Othmane charfaoui</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Developer</h3>
+<h3 align="center">A future Data Scientiste from Morocco</h3>
+
 
 - How to reach me **othmanecharfaoui21@gmail.com**
 
