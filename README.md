@@ -5,9 +5,8 @@
 
 - How to reach me **othmanecharfaoui21@gmail.com**
 
-- ⚡ Fun fact **I need a job**
+- Fun fact : **I need a job**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
